@@ -25,10 +25,10 @@ esac
 if [ -z ${BRANCH} ]; then
   BRANCH=null
 fi
-TAG_BRANCH="metwork/mfbaseplugins-centos8-buildimage2:${BRANCH}"
+TAG_BRANCH="metwork/mfbaseplugins-centos8-buildimage:${BRANCH}"
 TAG_LATEST=""
 if test "${BRANCH}" = "master"; then
-    TAG_LATEST="metwork/mfbaseplugins-centos8-buildimage2:latest"
+    TAG_LATEST="metwork/mfbaseplugins-centos8-buildimage:latest"
 fi 
 echo "::set-output name=branch::${BRANCH}"
 echo "::set-output name=tag_branch::${TAG_BRANCH}"
