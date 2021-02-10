@@ -54,5 +54,6 @@ jobs:
             ${{ steps.SetVariables.outputs.tag_latest }}
           build-args: |
             BRANCH=${{ steps.SetVariables.outputs.branch }}
+            CACHEBUST=${{ github.run_number }}
       - name: Image digest
         run: echo ${{ steps.docker_build.outputs.digest }}
