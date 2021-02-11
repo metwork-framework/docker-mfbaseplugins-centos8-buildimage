@@ -9,7 +9,7 @@
 
 [![GitHub CI](https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage/workflows/CI/badge.svg?branch=master)](https://github.com/metwork-framework/docker-mfbaseplugins-centos8-buildimage/actions?query=workflow%3ACI&branch=master)
 [![DockerHub](https://github.com/metwork-framework/resources/blob/master/badges/dockerhub_link.svg)](https://hub.docker.com/r/metwork/docker-mfbaseplugins-centos8-buildimage/)
-[![Maintenance](https://github.com/metwork-framework/resources/blob/master/badges/maintained.svg)]()
+[![Maintenance](https://raw.githubusercontent.com/metwork-framework/resources/master/badges/maintained.svg)](https://github.com/metwork-framework/resources/blob/master/badges/maintained.svg)
 [![Gitter](https://github.com/metwork-framework/resources/blob/master/badges/community-en.svg)](https://gitter.im/metwork-framework/community-en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Gitter](https://github.com/metwork-framework/resources/blob/master/badges/community-fr.svg)](https://gitter.im/metwork-framework/community-fr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
